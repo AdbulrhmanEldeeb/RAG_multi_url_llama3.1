@@ -1,0 +1,63 @@
+
+						--------------doc 1---------------- 
+url : https://finance.yahoo.com/news/instant-view-august-us-pce-130046899.html
+
+
+Q: What was the change in the personal consumption expenditures (PCE) price index for August?
+answer : 
+A: The PCE price index rose by 0.1% in August, following an unrevised 0.2% gain in July. In the 12 months through August, the PCE price index increased by 2.2%, down from a 2.5% rise in July.
+###############################
+Q: How did the core PCE price index perform in August?
+A: The core PCE price index, which excludes food and energy components, also increased by 0.1% in August after a 0.2% rise in July. Over the 12 months through August, core inflation advanced by 2.7%, slightly up from a 2.6% increase in July.
+#################
+Q: What inflation target does the U.S. central bank monitor?
+A: The U.S. central bank tracks the PCE price measures for its 2% inflation target.
+#####################
+					---------------	doc 2----------------------- 
+url : https://finance.yahoo.com/news/microsoft-cloud-ai-bring-stock-144322527.html
+
+Q: How much has Microsoft's stock increased over the past five years?
+A: Microsoft's stock has more than tripled over the past five years.
+###################
+Q: What is Microsoft’s current market share in the cloud computing industry?
+A: Microsoft has a 25% market share in the cloud computing industry.
+###################
+Q: How did Microsoft Cloud revenue grow in Q4 FY24 compared to AWS?
+A: Microsoft Cloud revenue grew by 21% year-over-year, while AWS revenue grew by 19%.
+###################
+Q: What percentage of total revenue does Microsoft generate from cloud computing?
+A: Microsoft generates more than 50% of its revenue from cloud computing.
+###################
+Q: What was Microsoft's cloud revenue in Q4 FY24?
+A: Microsoft's cloud revenue in Q4 FY24 was $36.8 billion.
+###################
+Q: What significant investment has Microsoft made in artificial intelligence?
+A: Microsoft has invested in OpenAI and released products like Copilot.
+###################
+Q: How did LinkedIn perform in terms of revenue growth in Q4 FY24?
+A: LinkedIn delivered 10% year-over-year revenue growth in Q4 FY24.
+							---------------	doc 3----------------------- 
+
+url : https://finance.yahoo.com/news/semtech-shares-hit-52-week-155300660.html
+
+Q: What sector does Semtech (NASDAQ
+) operate in?
+A: Semtech operates in the semiconductor manufacturing sector.
+###################
+Q: How did Semtech's Q2 revenues compare to analysts' expectations?
+A: Semtech's Q2 revenues of $215.4 million exceeded analysts' expectations by 1.5%.
+#################
+Q: What was the percentage decline in Semtech's revenue year-on-year?
+A: Semtech's revenue declined by 9.7% year-on-year.
+###############
+Q: What was the average increase in semiconductor manufacturing stock prices after the latest earnings results?
+A: Semiconductor manufacturing stocks were up 1.8% on average.
+##################
+Q: Which company had the best Q2 performance in the semiconductor industry?
+A: Nova (NASDAQ
+) had the best Q2 performance.
+###############
+Q: What significant action did the Fed take in September 2024 regarding interest rates?
+A: The Fed reduced its policy rate by 50 basis points (0.5%).
+
+
